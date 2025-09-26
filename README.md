@@ -121,3 +121,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 *QuantumChain - Securing the Future of Decentralized Networks*
+
+<img width="1551" height="808" alt="Screenshot 2025-09-26 151023" src="https://github.com/user-attachments/assets/5bcb11c4-99bf-4b12-b079-f1f4043f9976" />
+
+
